@@ -1,0 +1,43 @@
+#course-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#course-content h2 {
+    color: #33A8DB;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 6px;
+}
+
+#course-content p {
+    font-size: 16px;
+    line-height: 20px;
+    width: 792px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.modules-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.module {
+    background-color: #252525;
+    border: 2px solid #33A8DB;
+    border-radius: 50px;
+    color: #FFF;
+    padding: 16px;
+    width: 535px;
+    text-align: center;
+}
+
+.module span {
+    color: #33A8DB;
+}
