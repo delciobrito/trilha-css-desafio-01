@@ -1,0 +1,26 @@
+#professional-challenges {
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+}
+
+#professional-challenges h2 {
+    color: #33A8DB;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 746px;
+}
+
+#professional-challenges p {
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 21px;
+    margin-top: 40px;
+    text-align: center;
+    width: 792px;
+}
